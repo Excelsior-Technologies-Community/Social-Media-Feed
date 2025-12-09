@@ -64,6 +64,16 @@ cd backend
 2. Install dependencies
 npm install
 
+3. Create .env file
+```ini
+MONGO_URL=mongodb+srv://smit:smit2025@cluster0.fdhxhwv.mongodb.net/Social_Media
+JWT_SECRET="random#secret"
+JWT_EXPIRE=7d
+CLOUD_NAME=dtpyi2a73
+CLOUD_API_KEY=713457412594695
+CLOUD_API_SECRET=98XweLzoLLbJzTYFx33p6Z6gzsU
+```
+
 3. Start the server
 If using Node:
 node server.js
