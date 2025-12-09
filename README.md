@@ -74,7 +74,7 @@ CLOUD_API_KEY=713457412594695
 CLOUD_API_SECRET=98XweLzoLLbJzTYFx33p6Z6gzsU
 ```
 
-3. Start the server
+4. Start the server
 If using Node:
 node server.js
 
